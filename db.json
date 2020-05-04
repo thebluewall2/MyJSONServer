@@ -1,0 +1,8 @@
+{
+    promo: {
+        ImageLink: 'https://aa-storage-int.s3.amazonaws.com/aa-images/common/press-release/airasia-free-seats---en.png?sfvrsn=2',
+        VoucherID: 3
+        Amount: 50,
+        Name: 'Demo Promo!'
+    }
+}
