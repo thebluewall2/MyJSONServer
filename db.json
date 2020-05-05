@@ -1,36 +1,40 @@
 {
-    "promo": {
-        "ImageLink": "https://aa-storage-int.s3.amazonaws.com/aa-images/common/press-release/airasia-free-seats---en.png?sfvrsn=2",
-        "VoucherID": 3,
-        "Amount": 50,
-        "Name": "Demo Promo!"
-    },
-    "vouchers": [{
-        "ID": 1,
-        "Amount": 40,
-        "Title": "Raya Promo!",
-        "Message": "RM40 off your first order!",
-        "Percentage": null,
-        "isUsed": false,
-        "startDate": "2020-05-02T08:15:56",
-        "endDate": "2020-05-15T08:15:56"
-    }, {
-        "ID": 2,
-        "Amount": null,
-        "Title": "Raya Promo 2!",
-        "Message": "20% your orders!",
-        "Percentage": 20,
-        "isUsed": false,
-        "startDate": "2020-05-02T08:15:56",
-        "endDate": "2020-05-15T08:15:56"
-    }, {
-        "ID": 3,
-        "Amount": 10,
-        "Title": "Raya Promo 3!",
-        "Message": "RM10 off ALL your orders!",
-        "Percentage": null,
-        "isUsed": true,
-        "startDate": "2020-05-02T08:15:56",
-        "endDate": "2020-05-15T08:15:56"
-    }]
+   "promo":{
+      "ImageLink":"https://aa-storage-int.s3.amazonaws.com/aa-images/common/press-release/airasia-free-seats---en.png?sfvrsn=2",
+      "VoucherID":3,
+      "Amount":50,
+      "Name":"Demo Promo!"
+   },
+   "vouchers":[
+      {
+         "ID":1,
+         "Amount":40,
+         "Title":"Raya Promo!",
+         "Message":"RM40 off your first order!",
+         "Percentage":null,
+         "isUsed":false,
+         "startDate":"2020-05-02T08:15:56",
+         "endDate":"2020-05-15T08:15:56"
+      },
+      {
+         "ID":2,
+         "Amount":null,
+         "Title":"Raya Promo 2!",
+         "Message":"20% your orders!",
+         "Percentage":20,
+         "isUsed":false,
+         "startDate":"2020-05-02T08:15:56",
+         "endDate":"2020-05-15T08:15:56"
+      },
+      {
+         "ID":3,
+         "Amount":10,
+         "Title":"Raya Promo 3!",
+         "Message":"RM10 off ALL your orders!",
+         "Percentage":null,
+         "isUsed":true,
+         "startDate":"2020-05-02T08:15:56",
+         "endDate":"2020-05-15T08:15:56"
+      }
+   ]
 }
